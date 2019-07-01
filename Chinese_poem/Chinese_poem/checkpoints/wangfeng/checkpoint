@@ -1,0 +1,6 @@
+model_checkpoint_path: "wangfeng-1929"
+all_model_checkpoint_paths: "wangfeng-1889"
+all_model_checkpoint_paths: "wangfeng-1899"
+all_model_checkpoint_paths: "wangfeng-1909"
+all_model_checkpoint_paths: "wangfeng-1919"
+all_model_checkpoint_paths: "wangfeng-1929"
